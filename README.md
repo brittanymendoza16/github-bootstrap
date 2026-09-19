@@ -1,0 +1,15 @@
+# Aprendiendo Git & Github
+## Instrucciones para levantar el proyecto
+### Habilitar credenciales
+- copiar el archivo (.env.example) y renombrar a .env
+- asignar credenciales en cada variable de entorno
+
+***
+DATA_BASE_PASSWORD=
+
+OPENAI_API_KEY= 
+
+EMAIL_PASSWORD= 
+
+***
+- Una vez que realicen los cambios ya puede verificar el proyecto
